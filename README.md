@@ -1,2 +1,2 @@
 # yard-sale
-This is the course project of "Curso Práctico de Frontend Developer" by Platzi that I'm doing
+This is the project for a sales page that I'm doing, making a good interface for offers products
